@@ -10,4 +10,4 @@ I needed to visualize the containing depth information anyhow. (RGB video can be
 Based on https://github.com/etiennedub/pyk4a examples
 
 ## Useage
-see 'python mkv_depth_video.py -h'
+see `python mkv_depth_video.py -h`
